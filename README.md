@@ -1,3 +1,4 @@
+HEAD
 # Mini Platformer (Godot 4)
 
 Open Godot 4.3+ -> Import -> select `project.godot` -> press F5.
